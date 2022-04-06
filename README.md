@@ -1,6 +1,6 @@
 # Gologin-_-Puppeteer-core
 Test Gologin Profile Offline with Puppeteer-core
-**
+```
     const activeextension = 'F:/tool_gmail/extension/active';
     const extension = `${Config.ProfileDir}/${profile}/extension`
     const browser = await puppeteer.launch({
@@ -34,4 +34,4 @@ Test Gologin Profile Offline with Puppeteer-core
         ],
         // userDataDir: `${Config.ProfileDir}/${profile}`,
     });
-**
+```
