@@ -29,11 +29,7 @@ Test Gologin Profile Offline with Puppeteer-core
        
     ],
     executablePath: './browser/chrome.exe',
-        args: [
-          
-        ],
-        // userDataDir: `${Config.ProfileDir}/${profile}`,
-    });
+
 ```
 
 
